@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  7 13:48:13 2021
-
-@author: Lenovo
-"""
-
 """
 The ODE d_{tt} u = c^2 d_{xx} u is trasnformed to a first-order ODE by introducing
 v = du/dt: 
